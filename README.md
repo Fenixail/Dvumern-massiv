@@ -1,0 +1,2 @@
+# Dvumern-massiv
+array
